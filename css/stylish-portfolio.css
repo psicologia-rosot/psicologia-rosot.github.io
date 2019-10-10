@@ -123,7 +123,7 @@ h6 {
   height: 100%;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #19a43d;
+  background: #405f4e;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -202,7 +202,7 @@ h6 {
 
 .service-icon {
   background-color: #fff;
-  color: #19a43d;
+  color: #405f4e;
   height: 7rem;
   width: 7rem;
   display: block;
@@ -286,7 +286,7 @@ h6 {
     clip-path: inset(2rem);
   }
   .portfolio-item:hover .caption {
-    background-color: rgba(25, 164, 61, 0.9);
+    background-color: rgba(64, 95, 78, 0.9);
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
   }
@@ -303,33 +303,33 @@ footer.footer .social-link {
   width: 4rem;
   line-height: 4.3rem;
   font-size: 1.5rem;
-  background-color: #19a43d;
+  background-color: #405f4e;
   transition: background-color 0.15s ease-in-out;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
 
 footer.footer .social-link:hover {
-  background-color: #12782d;
+  background-color: #2b4135;
   text-decoration: none;
 }
 
 a {
-  color: #19a43d;
+  color: #405f4e;
 }
 
 a:hover, a:focus, a:active {
-  color: #12782d;
+  color: #2b4135;
 }
 
 .btn-primary {
-  background-color: #19a43d !important;
-  border-color: #19a43d !important;
+  background-color: #405f4e !important;
+  border-color: #405f4e !important;
   color: #fff !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #12782d !important;
-  border-color: #12782d !important;
+  background-color: #2b4135 !important;
+  border-color: #2b4135 !important;
 }
 
 .btn-secondary {
@@ -353,11 +353,11 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-  background-color: #19a43d !important;
+  background-color: #405f4e !important;
 }
 
 .text-primary {
-  color: #19a43d !important;
+  color: #405f4e !important;
 }
 
 .text-secondary {
