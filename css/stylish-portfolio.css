@@ -123,7 +123,7 @@ h6 {
   height: 100%;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #1D809F;
+  background: #19a43d;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -202,7 +202,7 @@ h6 {
 
 .service-icon {
   background-color: #fff;
-  color: #1D809F;
+  color: #19a43d;
   height: 7rem;
   width: 7rem;
   display: block;
@@ -286,7 +286,7 @@ h6 {
     clip-path: inset(2rem);
   }
   .portfolio-item:hover .caption {
-    background-color: rgba(29, 128, 159, 0.9);
+    background-color: rgba(25, 164, 61, 0.9);
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
   }
@@ -309,27 +309,27 @@ footer.footer .social-link {
 }
 
 footer.footer .social-link:hover {
-  background-color: #155d74;
+  background-color: #12782d;
   text-decoration: none;
 }
 
 a {
-  color: #1D809F;
+  color: #19a43d;
 }
 
 a:hover, a:focus, a:active {
-  color: #155d74;
+  color: #12782d;
 }
 
 .btn-primary {
-  background-color: #1D809F !important;
-  border-color: #1D809F !important;
+  background-color: #19a43d !important;
+  border-color: #19a43d !important;
   color: #fff !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #155d74 !important;
-  border-color: #155d74 !important;
+  background-color: #12782d !important;
+  border-color: #12782d !important;
 }
 
 .btn-secondary {
@@ -357,7 +357,7 @@ a:hover, a:focus, a:active {
 }
 
 .text-primary {
-  color: #1D809F !important;
+  color: #19a43d !important;
 }
 
 .text-secondary {
